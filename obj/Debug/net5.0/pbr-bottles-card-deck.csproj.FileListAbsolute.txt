@@ -1,0 +1,15 @@
+/Users/chris/projects/pbr-bottles-card-deck/bin/Debug/net5.0/pbr-bottles-card-deck.deps.json
+/Users/chris/projects/pbr-bottles-card-deck/bin/Debug/net5.0/pbr-bottles-card-deck.runtimeconfig.json
+/Users/chris/projects/pbr-bottles-card-deck/bin/Debug/net5.0/pbr-bottles-card-deck.runtimeconfig.dev.json
+/Users/chris/projects/pbr-bottles-card-deck/bin/Debug/net5.0/pbr-bottles-card-deck.dll
+/Users/chris/projects/pbr-bottles-card-deck/bin/Debug/net5.0/pbr-bottles-card-deck.pdb
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.AssemblyInfoInputs.cache
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.AssemblyInfo.cs
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.csproj.CoreCompileInputs.cache
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.dll
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/ref/pbr-bottles-card-deck.dll
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.pdb
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/pbr-bottles-card-deck.genruntimeconfig.cache
+/Users/chris/projects/pbr-bottles-card-deck/bin/Debug/net5.0/pbr-bottles-card-deck
+/Users/chris/projects/pbr-bottles-card-deck/obj/Debug/net5.0/refint/pbr-bottles-card-deck.dll
